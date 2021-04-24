@@ -1,3 +1,5 @@
+Runner.instance_.gameOver = function(){}
+
 function autoPlay()
 {
 
